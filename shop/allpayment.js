@@ -1,10 +1,10 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY ARIL STORE
 
 *さ BANK*
 1. BRI 
 	ㅁ 8881-00-83174953-57-8
-		• R***A*DI
+		• K***** M*******
 		
 *さ E-MONEY*
 1. GOPAY
